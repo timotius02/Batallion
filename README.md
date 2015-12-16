@@ -4,4 +4,5 @@
 ![Screenshot](Batallion.png?raw=true)
 
 Made during YHack 2015
+
 More info: http://devpost.com/software/battalion
